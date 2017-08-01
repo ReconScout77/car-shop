@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/cars/bin/Debug/netcoreapp1.1/carShop.deps.json
+/Users/Guest/Desktop/cars/bin/Debug/netcoreapp1.1/carShop.runtimeconfig.json
+/Users/Guest/Desktop/cars/bin/Debug/netcoreapp1.1/carShop.runtimeconfig.dev.json
+/Users/Guest/Desktop/cars/obj/Debug/netcoreapp1.1/carShop.AssemblyInfo.cs
+/Users/Guest/Desktop/cars/bin/Debug/netcoreapp1.1/carShop.dll
+/Users/Guest/Desktop/cars/bin/Debug/netcoreapp1.1/carShop.pdb
+/Users/Guest/Desktop/cars/obj/Debug/netcoreapp1.1/carShop.dll
+/Users/Guest/Desktop/cars/obj/Debug/netcoreapp1.1/carShop.pdb

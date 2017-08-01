@@ -1,0 +1,13 @@
+<h1>Car Added</h1>
+<ul>
+  @* @foreach(string task in Model)
+  {
+  <li>@task</li>
+  } *@
+</ul>
+<p><a href="/">Add another car</a></p>
+<p><a href="/car/list">View all cars</a></p>
+
+@Model.GetModel()
+@Model.GetPrice()
+@Model.GetMiles()
